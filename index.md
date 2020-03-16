@@ -1,7 +1,31 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+*Empower athletes to achieve their dream*
 
-![Image of fast.ai logo](images/logo.png)
 
-## This is a title
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+
+
+
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Olympic_rings_without_rims.svg" alt="WorldSportsNetwork10x Logo" width="250px"/>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+## Get closer together the World of Sports
+
+World Sport Network 10x is a platform of Sports which integrate a Network, Marketplace & Content.
+
+## Support: Surveys
+To help support World Sports Network 10x, click this [link to survey](https://forms.gle/qCB7x28kM2rjUCCA6) and fill out.
+
+## Coming Soon
+To join our mailing list, email WorldSportsNetwork10x@gmail.com
