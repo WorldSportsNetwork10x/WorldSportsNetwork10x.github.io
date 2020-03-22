@@ -3,7 +3,6 @@
 
 
 
-<img src="https://github.com/WorldSportsNetwork10x/worldsportsnetwork10x.github.io/blob/master/images/leeslogojpeg.jpg" width="250">
 
 
 ![](/images/leeslogojpeg.jpg)
