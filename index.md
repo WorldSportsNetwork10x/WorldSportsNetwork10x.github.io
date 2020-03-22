@@ -2,7 +2,7 @@
 
 
 
-![GitHub Logo](/images/leeslogojpeg.jpg| width=250)
+![GitHub Logo](/images/leeslogojpeg.jpg)
 
 
   
