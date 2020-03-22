@@ -2,18 +2,9 @@
 
 
 
-
-
-
-
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Olympic_rings_without_rims.svg" alt="WorldSportsNetwork10x Logo" width="250px"/>
-</p>
-
-
-
-
-
+![GitHub Logo](/images/leeslogojpeg.jpg)
+  
+  
 
 
 
