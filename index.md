@@ -1,15 +1,10 @@
 
 
 
+![](/images/leeslogojpeg.jpg)
 
 
-
-        
-<p align="center">
-<p><img src="images/leeslogojpeg.jpg"style=" alt="10x Logo" width="350px"/>
-</p>
-
-
+       
 
 
 ## Get closer together the World of Sports
