@@ -16,4 +16,4 @@ This is an immersing experience that enables to connect to the real-life in a 3D
 To help support World Sports Network 10x, click this [link to survey](https://forms.gle/qCB7x28kM2rjUCCA6) and fill out.
 
 ## Coming Soon
-To join our mailing list, email info@worldsportsnetwork10x.com
+*To join our mailing list, email info@worldsportsnetwork10x.com
