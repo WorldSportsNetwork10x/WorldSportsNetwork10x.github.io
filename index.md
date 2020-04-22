@@ -9,7 +9,7 @@
 
 ## Get closer together the World of Sports
 
-World Sport Network 10x is a interactive social sports platform which integrates a Network, Marketplace & Content. Focusing to connect professional athletes to athletes & their fan thorough the cutting edge of the Volumetric Virtual Reality technology.
+World Sport Network 10x is a interactive social sports platform which integrates a Network, Marketplace & Content. Focusing to connect professional athletes to athletes & their fan through the cutting edge of the Volumetric Virtual Reality Technology.
 
 This is an immersive experience that enables to connect to the real-life in a 3D space and walk around of that professional athlete (360°) in the actual space in order to learn skills & physical training, mindset and especially see his games in the real venue without been physically.
 
