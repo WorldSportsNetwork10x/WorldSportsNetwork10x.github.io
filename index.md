@@ -11,7 +11,7 @@
 
 World Sports Network 10x is an interactive social sports platform that integrates a Network, Marketplace & Content. Focusing to connect professional athletes to athletes & their fans through the cutting edge of Volumetric Virtual Reality Technology.
 
-World Sports Network 10x platform is a fully immersive experience that enables users to connect to the real-life in the actual 3D space with full-motion around the professional athlete (360°) in order to learn a free-kick and dribbling in the sport of soccer. After completing the first phase of the platform, the athlete will be able to learn sports skills & the physical training, the mindset of the athelete, and to view their games in the real venue without been there. It’s a multi-use venue platform, which means you can see the live broadcast from any device.
+World Sports Network 10x platform is a fully immersive experience that enables users to connect to the real-life in the actual 3D space with full-motion around the professional athlete (360°) in order to learn a free-kick and dribbling in the sport of soccer. After completing the first phase of the platform, the athlete will be able to learn sports skills & the physical training, the mindset of the athlete, and to view their games in the real venue without been there. It’s a multi-use venue platform, which means you can see the live broadcast from any device.
 
 ***Train like a professional athlete and create your own experience.***
 
