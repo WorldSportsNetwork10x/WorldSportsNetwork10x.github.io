@@ -27,6 +27,8 @@ WSN10x platform is a fully immersive experience that enables users to connect to
 
 ***The next generation of sports coaching and over the top sports track performance***
 
+WSN 10x is building a holistic sports training with the most immersive Volumetric VR experience backed with haptic feedback and biometrics for analytics and incorporated training simulations as the most iconic goals of the history of soccer.
+
 ## Support: Surveys
 To help support World Sports Network 10x, click this [link to survey](https://forms.gle/qCB7x28kM2rjUCCA6) and fill out.
 
