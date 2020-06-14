@@ -36,3 +36,5 @@ To help support World Sports Network 10x, click this [link to survey](https://fo
 
 ## Coming Soon
 *To join our mailing list, email info@worldsportsnetwork10x.com
+
+***It's a hyperrealistic soccer immersive experiences.***
