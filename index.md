@@ -21,7 +21,7 @@ WSN10x platform provides the ultimate solution with the cutting edge Volumetric 
 
 ![](/images/solution.jpg.png)
 
-***You can take the class with your friends & share your training with any social media like Facebook, Instagram & TikTok***
+***Capturing your motion in order to compare against pro-athletes & yourself, you become a future champion***
 
 WSN10x platform is a fully immersive experience that enables users to connect to the real-life in the actual 3D space with full-motion around the professional athlete (360°) in order to learn a free-kick and dribbling in the sport of soccer. After completing the first phase of the platform, the athlete will be able to learn sports skills & the physical training, the mindset of the athlete, and to view their games in the real venue without been there. It’s a multi-use venue platform, which means you can see the live broadcast from any device.
 
@@ -31,7 +31,7 @@ WSN10x platform is a fully immersive experience that enables users to connect to
 
 WSN 10x is building a holistic sports training with the most immersive Volumetric VR experience backed with haptic feedback and biometrics for analytics and incorporated training simulations as the most iconic goals of the history of soccer.
 
-***Capturing your motion in order to compare against pro-athletes & yourself, you become a future champion***
+***You can take the class with your friends & share your training with any social media like Facebook, Instagram & TikTok***
 
 ***Pro-Athlete/Coach are lined up, just for you!***
 
