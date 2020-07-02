@@ -17,7 +17,7 @@ World Sports Network 10x is an interactive social sports platform that integrate
 
 WSN10x platform provides the ultimate solution with the cutting edge Volumetric Virtual Reality technology that benefits athletes to train in the sport of soccer his free-kick and dribbling with top professional players. In fact, If you want that top professional athlete is your coach and train with him to become a 10x athlete, we guarantee that WSN 10x is your solution. 
 
-***Your Coach is a iconic professional athlete in Volumetric VR Technology***
+***Your Coach is a iconic Pro-athlete in Volumetric VR Technology***
 
 ![](/images/solution.jpg.png)
 
@@ -41,7 +41,7 @@ WSN10x platform is a fully immersive experience that enables users to connect to
 
 WSN 10x is building a holistic sports training with the most immersive Volumetric VR experience backed with haptic feedback and biometrics for analytics and incorporated training simulations as the most iconic goals of the history of soccer.
 
-***Pro-Athlete/Coach are lined up, just for you to become a future champion!***
+***Pro-Athlete/Coach are lined up, just for you in order to become a future champion!***
 
 ## Support: Surveys
 To help support World Sports Network 10x, click this [link to survey](https://forms.gle/qCB7x28kM2rjUCCA6) and fill out.
