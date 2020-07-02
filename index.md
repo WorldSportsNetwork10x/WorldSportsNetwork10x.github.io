@@ -23,6 +23,7 @@ WSN10x platform provides the ultimate solution with the cutting edge Volumetric 
 
 
 1-Classes –Experience the classes with close friends & share your training with any social media like Facebook, Instagram & TikTok
+
                   1 -Free Kick 
                   2 -Mindset –injured & loss games
                   
