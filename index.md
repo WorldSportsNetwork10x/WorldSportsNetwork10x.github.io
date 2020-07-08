@@ -9,7 +9,7 @@
        
 
 
-## How you train is how you play!
+## With who you train is how you play!
 
 ***WSN10x is like Masterclass but for sports in Volumetric VR Technology***
 
