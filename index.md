@@ -21,7 +21,7 @@ WSN10x platform provides the ultimate solution with the cutting edge Volumetric 
 
 ![](/images/solution.jpg.png)
 
-***Your Coach is a iconic Pro-athlete in Volumetric VR Technology***
+***Your Coach is a World Greatest Athlete in Volumetric VR Technology***
 
 ***How it works:***
 
