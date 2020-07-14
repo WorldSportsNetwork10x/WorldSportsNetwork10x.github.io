@@ -19,6 +19,8 @@ WSN10x platform provides the ultimate solution with the cutting edge Volumetric 
 
 ***World Class Training***
 
+***Touching Greatness Virtually. Accumulation of knowledge/technique of a lifetime of the greatest athletes coming into a class!***
+
 ![](/images/solution.jpg.png)
 
 ***Your Coach is the World's Greatest Athlete in Volumetric VR Technology***
