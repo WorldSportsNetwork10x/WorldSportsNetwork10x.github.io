@@ -27,7 +27,7 @@ WSN10x platform provides the ultimate solution with the cutting edge Volumetric 
 
 ***How it works:***
 
-***1-Classes with Pro-Athletes –Experience the classes with close friends & share your training with any social media like Facebook, Instagram & TikTok***
+***1-Classes with Pro-Athletes –Experience the classes with teammates, close friends & share your training with any social media like Facebook, Instagram & TikTok***
 
 ***I.Free Kick***
 
