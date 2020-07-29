@@ -41,7 +41,7 @@ WSN10x platform provides the optimum solution with the cutting edge Volumetric V
 ***Champion Price-Exposure to major league & be one day with the Pro-Athlete, if you win you can become one of the benchmark next year in the competition.***
 
 
-WSN10x platform is a fully immersive experience that enables users to connect to the real-life in the actual 3D space with full-motion around the professional athlete (360°) in order to learn a free-kick and dribbling in the sport of soccer. After completing the first phase of the platform, the athlete will be able to learn sports skills & the physical training, the mindset of the athlete, and to view their games in the real venue without been there. It’s a multi-use venue platform, which means you can see the live broadcast from any device.
+WSN10x platform is a fully immersive experience that enables users to connect to the real-life in the actual 3D space with full-motion around the professional athlete (360°) in order to learn a free-kick and dribbling in the sport of soccer. Noteworthy, you be able to learn from the perspective of the eyes of the pro-athlete and have full control of space and time. After completing the first phase of the platform, the athlete will be able to learn sports skills & the physical training, the mindset of the athlete, and to view their games in the real venue without been there. It’s a multi-use venue platform, which means you can see the live broadcast from any device.
 
 
 ***The next generation of sports coaching and over the top sports track performance***
