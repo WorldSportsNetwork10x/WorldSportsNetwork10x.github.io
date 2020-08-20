@@ -13,7 +13,7 @@
 
 ## Next Generation of Sports Training through 360° Volumetric VR Technology.
 
-***WSN10x is like Masterclass but for sports in Volumetric VR Technology. WSN10x enables the ultimate solution to supercharge your training on the champion state of mind in sports skills with the immersive 360° Volumetric VR Technology, visualize the skills of a pro-athlete.***
+***WSN10x is like Masterclass but for sports in Volumetric VR Technology. WSN10x enables the ultimate solution to supercharge your training on the champion state of mind in sports skills with the immersive 360° Volumetric VR Technology.***
 
 WSN10x is an interactive social sports platform that integrates a Professional Coach, Network & Content. Focusing to connect professional athletes to athletes & their fans through the cutting edge of Volumetric Virtual Reality Technology. WSN10x benefits athletes to train in the sport of soccer his free-kick and dribbling with top professional players. In fact, If you want that top professional athlete is your coach and train with him to become a 10x athlete, we guarantee that WSN 10x is your solution. 
 
@@ -41,7 +41,7 @@ WSN10x is an interactive social sports platform that integrates a Professional C
 ***Champion Price-Exposure to major league & be one day with the Pro-Athlete, if you win you can become one of the benchmark next year in the competition.***
 
 
-WSN10x platform is a fully immersive experience that enables users to connect to the real-life in the actual 3D space with full-motion around the professional athlete (360°) in order to learn a free-kick and dribbling in the sport of soccer. The core value is to be able to learn from the perspective of the eyes of the pro-athlete, have full control of space and time and enables you to decode every movement in sports in nanoseconds in an authentic human performance technology with world-class athlete. After have an compelling first phase of the platform, the athlete will be able to learn sports skills & the physical training, the mindset of the athlete, and to view their games in the real venue without been there. It’s a multi-use venue platform, which means you can see the live broadcast from any device.
+WSN10x platform is a fully immersive experience that enables users to connect to the real-life in the actual 3D space with full-motion around the professional athlete (360°) in order to learn in the sport of soccer. The core value is to be able to learn from the perspective of the eyes of the pro-athlete, have full control of space and time and enables you to decode every movement in sports in nanoseconds in an authentic human performance technology with world-class athlete. After have an compelling first phase of the platform, the athlete will be able to learn unique sports skills, the physical training & the mindset of the athlete. 
 
 
 ***The next generation of sports coaching and over the top sports track performance***
